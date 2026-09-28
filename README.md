@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🐈‍⬛
+*website*: 
 
-<!--
-**ble-ss/ble-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- i am at uni studying sociology and computer science
+- i have worked in marketing and uix
+- performance is my passion
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects:
+- daemon (drop soon)
+- blessed skyrim
+- blessed dxvk
+- blessed minecraft
+- aurora (soon)
+- daemon fonts
